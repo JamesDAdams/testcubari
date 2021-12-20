@@ -4,5 +4,16 @@
   "artist": "test",
   "author": "test",
   "cover": "https://images-na.ssl-images-amazon.com/images/I/91r77sf8h8L.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1639999740",
+      "groups": {
+        "": [
+          "https://i.imgur.com/olqlLty.jpg"
+        ]
+      }
+    }
+  }
 }
